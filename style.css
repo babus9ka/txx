@@ -1,0 +1,58 @@
+#elem1 {
+	background-image: url(https://www.millionpodarkov.ru/images/gotovim/retsept-italyanskoj-pitstsy-syrnaya-pitstsa-main.jpg);
+	width: 200px;
+	height: 200px;
+	background-position: center;
+	border: 1px solid black;
+}
+p {
+	width: 280px;
+	
+	margin-top: -4px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+
+#elem2 {
+	background-image: url(https://www.millionpodarkov.ru/images/gotovim/retsept-italyanskoj-pitstsy-syrnaya-pitstsa-main.jpg);
+	background: cover;
+	width: 200px;
+	height: 200px;
+	background-position: center;
+	border: 1px solid black;
+}
+.mmm {
+	display:flex;
+}
+
+.border1 {
+border: 2px solid red;
+height: 240px;
+width: 100px;
+border-right: none;
+}
+.text {
+width: 280px;
+height: 200px;
+position: relative;
+top: 10px;
+left: -20px;
+text-align: center;
+}
+
+.border2 {
+	border: 2px solid red;
+	height: 240px;
+	width: 100px;
+	border-left: none;
+	position: relative;
+	right: 20px;
+	left: -40px;
+	}
+.eee {
+	display: flex;
+	margin-top: 20px;
+}
+
+
